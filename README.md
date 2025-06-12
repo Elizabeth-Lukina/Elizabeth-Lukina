@@ -1,69 +1,66 @@
-<h1 align="center">Привет, я Елизавета 🐍</h1>
-<h3 align="center">Python-разработчик | Telegram-боты | AI-интеграции</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%97+Hi%2C+I'm+Elizabeth!;%F0%9F%91%8B+Python+Dev+%26+Bot+Enthusiast;%F0%9F%A7%A1+AI%2C+Data+%2B+Telegram+Assistance;%F0%9F%92%AB+Let's+Build+Something+Great!" alt="Typing SVG" />
+</h1>
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dz3cDTu7fF9aK8Y1zZ/giphy.gif" width="120px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-### 🌈 Обо мне
+## ✨ Обо мне
 
-- 🧠 Интересуюсь AI, ML и Data Science
-- 🤖 Люблю делать Telegram-ботов умными и полезными
-- 🛠 Постоянно прокачиваю навыки через Pet-проекты
-- 📌 Стек: Python, SQLite, Telebot, dateparser, APScheduler
+```yaml
+Имя:        Елизавета
+Роль:       Python разработчик
+Фокус:     Telegram-боты и AI
+Техно:     SQLite, OpenAI, APScheduler
+Знания:    SQL, парсинг, аналитика, NLP
+```
 
 ---
 
-### 🐾 Бегущий корги следит за твоими успехами
+## 🚀 Telegram-помощник
+
+Мой проект — это:
+
+- ☀️ Погода, 💱 курс валют и 🧠 мысль дня
+- ⏰ Утренние рассылки по графику
+- 🫠 AI-ответы и голосовые команды
+- 📊 Аналитика, статистика, обратная связь
+
+🔗 [Смотреть проект](https://github.com/Elizabeth-Lukina/telegram-assistant)
+
+---
+
+## 🐶 Погоняющие корги
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Добро+пожаловать+на+мой+GitHub!;Здесь+живёт+мой+Telegram-бот.;Скоро+и+AI,+и+напоминания,+и+магия!" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/Jayaram-R/Readme-Corgi-Run/main/bottom-header.svg" />
+  <img src="https://raw.githubusercontent.com/natalia-osa/corgi-readme/main/corgi.gif" height="140">
 </p>
 
 ---
 
-### 📊 GitHub Статистика
+## 🌟 GitHub Статистика
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth-Lukina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### 🚀 Проект недели
+## 💬 Связь
 
-#### 👩‍💻 Telegram Assistant Bot
-
-> Telegram-бот, который:
-> - Отправляет утреннюю сводку (погода, курс, мысль дня)
-> - Хранит задачи и напоминает о них
-> - Понимает человеческий текст
-> - Поддерживает AI-ответы (OpenAI)
-
-📎 [Смотреть репозиторий](https://github.com/Elizabeth-Lukina/telegram-assistant)
-
----
-
-### 💌 Контакты
-
-- Telegram: [@твоя_ссылка](https://t.me/твоя_ссылка)
-- Email: elizabeth@example.com
-- LinkedIn: *по желанию*
+- Telegram: [@ElizabethLukina](https://t.me/ElizabethLukina)
+- GitHub: [Elizabeth-Lukina](https://github.com/Elizabeth-Lukina)
+- Постоянно учусь и пробую новое — присоединяйся! 🌟
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="120px" alt="Thanks corgi" />
-  <br>
-  <i>Спасибо, что заглянули 👋</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 </p>
