@@ -1,54 +1,69 @@
-<h1 align="center">Привет! Я Елизавета 🌿</h1>
-<p align="center">
-  💡 Python-разработчик | 🧠 Люблю машинное обучение | 🤖 Telegram-боты — моё всё
-</p>
+<h1 align="center">Привет, я Елизавета 🐍</h1>
+<h3 align="center">Python-разработчик | Telegram-боты | AI-интеграции</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Создаю+Telegram-ботов+с+AI+и+душой;Автоматизирую+рутину;Прокачиваю+скиллы+в+Data+Science" alt="typing" />
+  <img src="https://media.giphy.com/media/dz3cDTu7fF9aK8Y1zZ/giphy.gif" width="120px"/>
 </p>
 
 ---
 
-### 🛠 Стек технологий
+### 🌈 Обо мне
 
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Pandas](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&logo=pandas)
-![Telebot](https://img.shields.io/badge/-Telebot-26A5E4?style=for-the-badge&logo=telegram)
-![dateparser](https://img.shields.io/badge/-Dateparser-FE7A16?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+- 🧠 Интересуюсь AI, ML и Data Science
+- 🤖 Люблю делать Telegram-ботов умными и полезными
+- 🛠 Постоянно прокачиваю навыки через Pet-проекты
+- 📌 Стек: Python, SQLite, Telebot, dateparser, APScheduler
 
 ---
 
-### 🌟 Мой Pet-проект
+### 🐾 Бегущий корги следит за твоими успехами
 
-📱 **Личный Telegram-ассистент:**
-> Каждый день присылает сводку: курс валют, погода, задачи, мысль дня  
-> Умеет запоминать, слушать, понимать и даже отвечать с помощью AI
-
-- 🧠 Поддержка AI-ответов
-- ⏰ Умная рассылка в заданное время
-- 🧾 Добавление и анализ задач
-- 🌤 Работа с API: OpenWeather, Exchange Rates, ZenQuotes
-- 🗂 Использование `dateparser` и `apscheduler`
-
-🔗 [Исходный код проекта](https://github.com/Elizabeth-Lukina/telegram-assistant) *(создай репозиторий с этим именем!)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Добро+пожаловать+на+мой+GitHub!;Здесь+живёт+мой+Telegram-бот.;Скоро+и+AI,+и+напоминания,+и+магия!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Jayaram-R/Readme-Corgi-Run/main/bottom-header.svg" />
+</p>
 
 ---
 
-### 🧠 Немного аналитики
+### 📊 GitHub Статистика
 
-| Статистика | Языки |
-|------------|-------|
-| ![](https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth-Lukina&layout=compact&theme=radical) |
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth-Lukina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
-### 💬 Обратная связь
-- 📩 Telegram: [@your_tg_bot](https://t.me/your_tg_bot)
-- 📫 Почта: elizabeth@example.com
+### 🚀 Проект недели
+
+#### 👩‍💻 Telegram Assistant Bot
+
+> Telegram-бот, который:
+> - Отправляет утреннюю сводку (погода, курс, мысль дня)
+> - Хранит задачи и напоминает о них
+> - Понимает человеческий текст
+> - Поддерживает AI-ответы (OpenAI)
+
+📎 [Смотреть репозиторий](https://github.com/Elizabeth-Lukina/telegram-assistant)
 
 ---
 
-_С любовью к Python, AI и идеальному UX 💚_
+### 💌 Контакты
 
+- Telegram: [@твоя_ссылка](https://t.me/твоя_ссылка)
+- Email: elizabeth@example.com
+- LinkedIn: *по желанию*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="120px" alt="Thanks corgi" />
+  <br>
+  <i>Спасибо, что заглянули 👋</i>
+</p>
