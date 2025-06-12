@@ -1,66 +1,45 @@
+<!-- Верхний корги -->
+<p align="center">
+  <img src="https://media.giphy.com/media/5xtDarzqClcQfKzZxWK/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="100" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%97+Hi%2C+I'm+Elizabeth!;%F0%9F%91%8B+Python+Dev+%26+Bot+Enthusiast;%F0%9F%A7%A1+AI%2C+Data+%2B+Telegram+Assistance;%F0%9F%92%AB+Let's+Build+Something+Great!" alt="Typing SVG" />
+  💖 Привет, я Лиза — Python-разработчик и Telegram-ботостроитель!
 </h1>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&lines=🌸+Создаю+ботов,+которые+умеют+всё;💬+Обрабатываю+естественный+язык;📊+Аналитика+данных+в+душе;🧠+Мечтаю+о+своём+AI+ассистенте" />
 </p>
 
 ---
 
-## ✨ Обо мне
-
-```yaml
-Имя:        Елизавета
-Роль:       Python разработчик
-Фокус:     Telegram-боты и AI
-Техно:     SQLite, OpenAI, APScheduler
-Знания:    SQL, парсинг, аналитика, NLP
-```
+### 💼 Мои навыки:
+- 💻 Python, SQL, Git, SQLite
+- 🤖 Telegram Bot API, aiogram, pyTelegramBotAPI
+- 🧠 NLP, dateparser, машинное обучение
+- 📊 Data Science, аналитика, визуализация
+- 🗃️ Структурированные проекты и читаемый код
 
 ---
 
-## 🚀 Telegram-помощник
-
-Мой проект — это:
-
-- ☀️ Погода, 💱 курс валют и 🧠 мысль дня
-- ⏰ Утренние рассылки по графику
-- 🫠 AI-ответы и голосовые команды
-- 📊 Аналитика, статистика, обратная связь
-
-🔗 [Смотреть проект](https://github.com/Elizabeth-Lukina/telegram-assistant)
-
----
-
-## 🐶 Погоняющие корги
-
+### 📈 GitHub Статистика:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/natalia-osa/corgi-readme/main/corgi.gif" height="140">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🌟 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+### 📬 Обратная связь и идеи?
+📝 Люблю улучшать, пиши в [issues](https://github.com/Elizabeth-Lukina/Elizabeth-Lukina/issues) или прямо в Telegram 🤖
 
 ---
 
-## 💬 Связь
-
-- Telegram: [@ElizabethLukina](https://t.me/ElizabethLukina)
-- GitHub: [Elizabeth-Lukina](https://github.com/Elizabeth-Lukina)
-- Постоянно учусь и пробую новое — присоединяйся! 🌟
-
----
-
+<!-- Нижний корги -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" />
 </p>
