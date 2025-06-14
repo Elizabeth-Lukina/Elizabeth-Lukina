@@ -1,66 +1,42 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%97+Hi%2C+I'm+Elizabeth!;%F0%9F%91%8B+Python+Dev+%26+Bot+Enthusiast;%F0%9F%A7%A1+AI%2C+Data+%2B+Telegram+Assistance;%F0%9F%92%AB+Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Elizabeth!;Python+Developer+%7C+AI+Explorer;Automating+Everything+with+Code" alt="Typing SVG" />
 </h1>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-## ✨ Обо мне
+## 🧠 About Me
 
 ```yaml
-Имя:        Елизавета
-Роль:       Python разработчик
-Фокус:     Telegram-боты и AI
-Техно:     SQLite, OpenAI, APScheduler
-Знания:    SQL, парсинг, аналитика, NLP
-```
+Name:        Elizabeth Lukina
+Role:        Python Developer
+Focus:       Automation, AI & NLP
+Interests:   Chatbots, Data Parsing, Scheduling, CLI Tools
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/APScheduler-FF69B4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-dateparser-lightgrey?style=for-the-badge"/> <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> </p>
+🧩 Projects & Domains
+🤖 Telegram Bots: scheduling, reminders, AI & automation
 
----
+🔍 Data Scraping & Parsing from websites and APIs
 
-## 🚀 Telegram-помощник
+🗃️ SQL-based analytics and task managers
 
-Мой проект — это:
+🧬 Natural Language Processing (date parsing, command interpretation)
 
-- ☀️ Погода, 💱 курс валют и 🧠 мысль дня
-- ⏰ Утренние рассылки по графику
-- 🫠 AI-ответы и голосовые команды
-- 📊 Аналитика, статистика, обратная связь
+🧠 AI integrations via OpenAI APIs
 
-🔗 [Смотреть проект](https://github.com/Elizabeth-Lukina/telegram-assistant)
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=radical&hide_border=true" height="170"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=radical&hide_border=true" height="150"/> </p>
+🐾 Corgi Companion (Just for fun 🐶)
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB6cTh0dWI3cWZob2RnYXFnMHVhMDRtc2V2bGoxNmFtdTU4bGl5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DwZ0DSi0WbB5eM4Jc4/giphy.gif" height="120" /> </p>
+💬 Connect with Me
+Telegram: @ElizabethLukina
 
----
+GitHub: Elizabeth-Lukina
 
-## 🐶 Погоняющие корги
+Always curious, always building. Let's connect 🚀
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/natalia-osa/corgi-readme/main/corgi.gif](https://99px.ru/sstorage/86/2018/04/image_862304181120109636831.gif)" height="140">
-</p>
-
----
-
-## 🌟 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elizabeth-Lukina&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth-Lukina&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 💬 Связь
-
-- Telegram: [@ElizabethLukina](https://t.me/Eliza2404)
-- GitHub: [Elizabeth-Lukina](https://github.com/Elizabeth-Lukina)
-- Постоянно учусь и пробую новое — присоединяйся! 🌟
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> </p> ```
