@@ -14,7 +14,7 @@
   <a href="https://t.me/Eliza2404">
     <img src="https://img.shields.io/badge/Telegram-%40Eliza2404-ff69b4?style=flat&logo=telegram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:elizavetalukina3534@gmail.com">
     <img src="https://img.shields.io/badge/Email-Write%20me-ff69b4?style=flat&logo=gmail" />
   </a>
 </p>
