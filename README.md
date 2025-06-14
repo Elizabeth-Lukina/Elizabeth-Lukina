@@ -5,6 +5,26 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi%2C+I'm+Elizabeth!;Python+Developer+%7C+AI+Explorer;Telegram+Bots+%7C+ML+%7C+Analytics" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Elizabeth-Lukina">
+    <img src="https://img.shields.io/github/followers/Elizabeth-Lukina?label=Follow&style=social" />
+  </a>
+  <a href="https://t.me/Eliza2404">
+    <img src="https://img.shields.io/badge/Telegram-%40Eliza2404-ff69b4?style=flat&logo=telegram" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Write%20me-ff69b4?style=flat&logo=gmail" />
+  </a>
+</p>
 
 ---
 
