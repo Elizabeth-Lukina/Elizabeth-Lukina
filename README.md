@@ -38,7 +38,7 @@
 ## 🐶 Погоняющие корги
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/natalia-osa/corgi-readme/main/corgi.gif" height="140">
+  <img src="[https://raw.githubusercontent.com/natalia-osa/corgi-readme/main/corgi.gif](https://99px.ru/sstorage/86/2018/04/image_862304181120109636831.gif)" height="140">
 </p>
 
 ---
@@ -55,7 +55,7 @@
 
 ## 💬 Связь
 
-- Telegram: [@ElizabethLukina](https://t.me/ElizabethLukina)
+- Telegram: [@ElizabethLukina](https://t.me/Eliza2404)
 - GitHub: [Elizabeth-Lukina](https://github.com/Elizabeth-Lukina)
 - Постоянно учусь и пробую новое — присоединяйся! 🌟
 
