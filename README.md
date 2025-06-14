@@ -56,7 +56,7 @@ Interests:   Chatbots, Data Parsing, Scheduling, CLI Tools
 ## 🐾 Corgi Companion (Just for fun 🐶)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB6cTh0dWI3cWZob2RnYXFnMHVhMDRtc2V2bGoxNmFtdTU4bGl5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DwZ0DSi0WbB5eM4Jc4/giphy.gif" height="120" />
+  <img src="https://99px.ru/sstorage/86/2018/04/image_862304181120109636831.gif" height="120" />
 </p>
 
 ---
