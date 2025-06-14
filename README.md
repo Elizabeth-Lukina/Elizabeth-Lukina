@@ -1,10 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Elizabeth!;Python+Developer+%7C+AI+Explorer;Automating+Everything+with+Code" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
 <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
