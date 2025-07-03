@@ -66,7 +66,7 @@ Interests: Telegram Bots, AI, ML, Analytics, Personal Assistants
 > 📌 Цель — находить лучшие предложения для владельцев питомцев.
 > ⚙️ Стек: Python, Requests, BeautifulSoup4, PostgreSQL, Django (UI в планах).
 
-## 🐾 Corgi Companion (Just for fun 🐶)
+## 🐾 My Corgi Companion (Freddy 🐶)
 
 <p align="center">
   <img src="https://99px.ru/sstorage/86/2018/04/image_862304181120109636831.gif" height="120" />
