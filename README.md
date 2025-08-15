@@ -1,4 +1,4 @@
-вот есть ридми моей страницы <!-- Animated Header -->
+ <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
