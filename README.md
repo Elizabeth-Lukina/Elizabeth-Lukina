@@ -45,11 +45,11 @@ Tools: Git, Docker
 
 ## Projects
 ```yaml
-- 🤖 Telegram Bots: scheduling, reminders, AI & automation
-- 🔍 Data Scraping & Parsing from websites and APIs
-- 🗃️ SQL-based analytics and task managers
-- 🧬 Natural Language Processing (date parsing, command interpretation)
-- 🧠 AI integrations via OpenAI APIs
+- Telegram Bots: scheduling, reminders, AI & automation
+- Data Scraping & Parsing from websites and APIs
+- SQL-based analytics and task managers
+- Natural Language Processing (date parsing, command interpretation)
+- AI integrations via OpenAI APIs
 ```
 ### AXEL
 
@@ -69,16 +69,16 @@ Tools: Git, Docker
 ## 🐾 My Corgi Companion (Freddy 🐶)
 
 <p align="center">
-  <img src="https://99px.ru/sstorage/86/2018/04/image_862304181120109636831.gif" height="120" />
+  <img src="/20250521_182425.jpg" height="600" />
 </p>
 
 ---
 
 ### Connect with Me
 
-- 📬 Telegram: [@Eliza2404](https://t.me/Eliza2404)
-- 💼 GitHub: [Elizabeth-Lukina](https://github.com/Elizabeth-Lukina)
-- ✉️ Email: elizavetalukina3534@gmail.com
+- Telegram: [@Eliza2404](https://t.me/Eliza2404)
+- GitHub: [Elizabeth-Lukina](https://github.com/Elizabeth-Lukina)
+- Email: elizavetalukina3534@gmail.com
 
 
 
